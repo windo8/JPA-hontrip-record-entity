@@ -1,0 +1,1 @@
+# JPA-hontrip-record-entity
